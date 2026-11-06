@@ -169,7 +169,7 @@ public class SudarMuthu {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDAR_MUTHU&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -177,7 +177,7 @@ public class SudarMuthu {
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Sudar Muthu A">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
